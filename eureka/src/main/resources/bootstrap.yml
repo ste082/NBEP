@@ -1,0 +1,10 @@
+server.port: 8761
+
+#spring:
+#  application:
+#    name: Eureka
+#  cloud:
+#    config:
+#      enabled: true
+#      label: v1.0
+#      uri: ${http://localhost:8000}

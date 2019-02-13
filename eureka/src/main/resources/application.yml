@@ -1,0 +1,5 @@
+eureka:
+    renewalPercentThreshold: 0.20
+    client:
+      register-with-eureka: false
+      fetch-registry: false

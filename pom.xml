@@ -59,6 +59,7 @@
 
     <modules>
         <module>controller</module>
+        <module>eureka</module>
     </modules>
 
 </project>
